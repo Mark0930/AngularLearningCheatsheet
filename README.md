@@ -6,3 +6,6 @@
 
 - npm i -g @angular/cli
 
+#### Make new angular project
+- np new {project-name}
+
