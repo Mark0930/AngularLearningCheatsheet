@@ -9,3 +9,14 @@
 #### Make new angular project
 - ng new {project-name}
 
+#### Running application
+- ng serve or npm start
+
+#### Make a new component
+- ng g c {component-name}
+
+#### App Selectors
+- app-selector : custom html tag e.g `<app.selector>`
+- .app-selector : html class eg `<div class ="app-selectior">`
+- [app-selector] : attribute eg `<div app-selectior>`
+
